@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jy-system config-name="hello">
+    <detectors>
+        <detector name="a detector" id="scd1">
+
+        </detector>
+        <detector name="a detector" id="scd2">
+
+        </detector>
+    </detectors>
+    <monos>
+        <mono name="a mono" id="mono1">
+
+        </mono>
+        <mono name="a mono" id="mono2">
+
+        </mono>
+    </monos>
+</jy-system>
